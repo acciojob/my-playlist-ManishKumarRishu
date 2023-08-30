@@ -1,20 +1,17 @@
-*{background-color: rgb(204, 204, 204);}
-#playlist{
-	border:1px black solid;
-		  background-color:white;
-		 border-radius:10px;}
-ul{
-	 background-color:white;
+body{
+	background-color: rgb(204, 204, 204)
 }
-li{
-	 background-color:white;
+h1,h2{
+	 text-align: center;
 }
-.audi{background-color: rgb(255, 255, 255); }
-h1{text-align:center;}
-h2{text-align:center;}
-.mishra{background-color:white;}
-ul>li{list-style-type:none;}
-.player{
-	border:1px black solid;
-	 border-radius:10px;
+a{
+	text-decoration-line: none;
+}
+ul>li{
+		list-style-type: none;
+}
+.player_one,.player_two{
+	background-color: rgb(255, 255, 255); 
+	padding: 50px;
+	border-radius: 10px;
 }
